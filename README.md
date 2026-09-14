@@ -14,12 +14,6 @@ I'm interested in how systems behave, why they fail, and what the evidence can t
 
 **I like getting past "it works" to "here's why it works."**
 
-```text
-0:000> .echo Learning and fixing things!
-Learning and fixing things!
-
-0:000> g
-```
 
 <p align="center">
 	<a href="https://www.hichauhan.in/">Step into my terminal</a> &middot;
