@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-	<a href="https://www.hichauhan.in/"><img src="./assets/website-link.svg" alt="Visit my website" width="160" height="48"></a>
-	<a href="https://www.linkedin.com/in/hichauhan-in/"><img src="./assets/linkedin-link.svg" alt="Connect on LinkedIn" width="160" height="48"></a>
+	<a href="https://www.hichauhan.in/"><img src="./assets/website-link.svg" alt="Visit my website" width="140" height="42"></a>&ensp;
+	<a href="https://www.linkedin.com/in/hichauhan-in/"><img src="./assets/linkedin-link.svg" alt="Connect on LinkedIn" width="140" height="42"></a>
 </p>
 
 ## `whoami`
