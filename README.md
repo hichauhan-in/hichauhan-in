@@ -1,9 +1,12 @@
 [![Himanshu Chauhan. From Windows internals to everyday tools. Learning and fixing things!](./assets/profile-banner.svg)](https://www.hichauhan.in/)
 
 <p align="center">
-	<strong>Windows Debug Engineer @ Microsoft</strong><br>
-	<a href="https://www.hichauhan.in/">Website</a> &middot;
-	<a href="https://www.linkedin.com/in/hichauhan-in/">LinkedIn</a>
+	<strong>Windows Debug Engineer @ Microsoft</strong>
+</p>
+
+<p align="center">
+	<a href="https://www.hichauhan.in/"><img src="./assets/website-link.svg" alt="Visit my website" width="160" height="48"></a>
+	<a href="https://www.linkedin.com/in/hichauhan-in/"><img src="./assets/linkedin-link.svg" alt="Connect on LinkedIn" width="160" height="48"></a>
 </p>
 
 ## `whoami`

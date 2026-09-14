@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="48" viewBox="0 0 160 48" role="img" aria-labelledby="title">
+  <title id="title">Visit my website</title>
+  <rect x="0.5" y="0.5" width="159" height="47" rx="6" fill="#141918" stroke="#52665c"/>
+  <g transform="translate(17 12)" fill="none" stroke="#7ee0bd" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m4 17 6-5-6-5"/>
+    <path d="M12 19h8"/>
+  </g>
+  <text x="55" y="30" fill="#f3f6f4" font-family="Consolas, 'Liberation Mono', monospace" font-size="18" font-weight="700" letter-spacing="0">Website</text>
+</svg>
