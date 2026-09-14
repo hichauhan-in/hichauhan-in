@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="330" viewBox="0 0 1080 330" role="img" aria-labelledby="title description">
+  <title id="title">Himanshu Chauhan</title>
+  <desc id="description">From Windows internals to everyday tools. A debugger-inspired personal banner. Learning and fixing things!</desc>
+  <defs>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#eef3f0" stroke-opacity="0.035"/>
+    </pattern>
+  </defs>
+  <rect width="1080" height="330" rx="8" fill="#141918"/>
+  <rect width="1080" height="330" rx="8" fill="url(#grid)"/>
+  <path d="M 56 70 H 1024 M 56 254 H 1024" fill="none" stroke="#39423f"/>
+  <g font-family="Consolas, 'Liberation Mono', monospace" letter-spacing="0">
+    <text x="56" y="44" fill="#7ee0bd" font-size="17">HC / PERSONAL LOG</text>
+    <text x="1024" y="44" fill="#b4bfba" font-size="17" text-anchor="end">DEBUG / BUILD / REPEAT</text>
+    <text x="52" y="163" fill="#f3f6f4" font-size="76" font-weight="700">Himanshu Chauhan</text>
+    <rect x="819" y="105" width="18" height="62" fill="#7ee0bd"/>
+    <text x="56" y="212" fill="#d0d9d4" font-size="25">From Windows internals to everyday tools.</text>
+    <text x="56" y="293" fill="#7ee0bd" font-size="20">0:000&gt; g</text>
+    <text x="1024" y="293" fill="#eac777" font-size="18" text-anchor="end">Learning and fixing things!</text>
+  </g>
+  <path d="M 970 112 H 1024 M 988 136 H 1024 M 1006 160 H 1024" fill="none" stroke="#eac777" stroke-width="5"/>
+</svg>
