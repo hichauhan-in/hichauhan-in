@@ -14,20 +14,6 @@ I'm interested in how systems behave, why they fail, and what the evidence can t
 
 **I like getting past "it works" to "here's why it works."**
 
-## How I think
-
-- **Follow the evidence.** Let what the system is doing guide the next question.
-- **Understand the why.** A fix is useful. Knowing why it works is better.
-- **Keep learning.** There is usually another layer worth understanding.
-
-## Things I can happily talk about
-
-Memory, threads, drivers, and the small details that change the whole diagnosis. Windows is my home ground, but my curiosity also takes me into automation, AI, and application development.
-
-`Windows internals` `WinDbg` `C / C++` `Python` `Kotlin`
-
----
-
 ```text
 0:000> .echo Learning and fixing things!
 Learning and fixing things!
