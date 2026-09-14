@@ -24,5 +24,4 @@ Learning and fixing things!
 <p align="center">
 	<a href="https://www.hichauhan.in/">Step into my terminal</a> &middot;
 	<a href="https://www.linkedin.com/in/hichauhan-in/">Let's connect</a><br>
-	<sub>Personal views, not official Microsoft guidance.</sub>
 </p>
