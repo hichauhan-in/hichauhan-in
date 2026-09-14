@@ -8,7 +8,7 @@
 
 ## `whoami`
 
-I'm **Himanshu Chauhan**. I work close to Windows internals, where understanding a problem often means looking underneath the interface.
+I work close to Windows internals, where understanding a problem often means looking underneath the interface.
 
 I'm interested in how systems behave, why they fail, and what the evidence can tell us. Debugging brings those questions together.
 
